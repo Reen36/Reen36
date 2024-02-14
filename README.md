@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Assalamualaikum and Hi! I am Mohd Zaireenfarid, a graduated Software Engineering student from Universiti Malaysia Sarawak.
+
+I hope I can learn from this community, improve myself in coding skill and then use it to contribute to society.
+- 😄 Pronouns: He/Him
+
 <!--
 **zaireenfarid/zaireenfarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
